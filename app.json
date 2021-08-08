@@ -15,7 +15,7 @@
     "uploader"
   ],
   "success_url": "https://t.me/xurluploaderbot",
-  "website": "https://github.com/X-Gorn",
+  "website": "https://github.com/abai254",
   "repository": "https://github.com/X-Gorn/X-URL-Uploader",
   "env": {
     "WEBHOOK": {
